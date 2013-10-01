@@ -4,7 +4,14 @@ title: Community Supported Clients & Integrations
 cat: guide
 ---
 
-h2. Clients
+h2. Official Clients
+
+* "Elasticsearch.pm":https://github.com/elasticsearch/elasticsearch-perl: Perl Client
+* "elasticsearch-php":https://github.com/elasticsearch/elasticsearch-php: PHP Client
+* "elasticsearch-py":https://github.com/elasticsearch/elasticsearch-py: Python Client
+* "elasticsearch-ruby": https://github.com/elasticsearch/elasticsearch-ruby: Ruby Client
+
+h2. Community Clients
 
 h3. Perl
 

@@ -13,14 +13,10 @@ h2. Official Clients
 
 h2. Community Clients
 
-h3. Perl
-
-* "ElasticSearch.pm":http://github.com/clintongormley/ElasticSearch.pm: Perl client.
-
 h3. Python
 
-* "pyes":http://github.com/aparo/pyes: Python client.
 * "pyelasticsearch":http://github.com/rhec/pyelasticsearch: Python client.
+* "pyes":http://github.com/aparo/pyes: Python client.
 * "ESClient":https://github.com/eriky/ESClient: A lightweight and easy to use Python client for ElasticSearch.
 * "rawes":https://github.com/humangeo/rawes: Python low level client.
 * "elasticutils":https://github.com/mozilla/elasticutils/: A friendly chainable ElasticSearch interface for Python.

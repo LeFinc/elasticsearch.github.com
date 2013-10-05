@@ -1,3 +1,5 @@
-The site docs for elasticsearch.org
+The Elasticsearch docs now live in the main repository: http://github.com/elasticsearch/elasticsearch
 
-Have a look at [the contribution guide](http://www.elasticsearch.org/contributing-to-elasticsearch) for further information.
+See: https://github.com/elasticsearch/elasticsearch/tree/master/docs
+
+

@@ -1,8 +1,0 @@
----
-layout: guide
-title: Phonetic Token Filter
-cat: guide
-sidebar: reference_index_modules_analysis
----
-
-p. The @phonetic@ token filter is provided as a plugin and located "here":https://github.com/elasticsearch/elasticsearch-analysis-phonetic.
